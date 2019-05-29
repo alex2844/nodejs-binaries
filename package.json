@@ -1,0 +1,15 @@
+{
+	"name": "nodejs-binaries",
+	"version": "9.11.0",
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/alex2844/nodejs-binaries.git"
+	},
+	"author": {
+		"name": "Alex Smith",
+		"email": "alex.smith2844@gmail.com",
+		"website": "https://me.qwedl.com/",
+		"github": "https://github.com/alex2844"
+	}
+}
